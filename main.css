@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: rgb(50, 50, 0);
+  color: white;
+}
+
+img {
+  display: block;
+  margin: auto;
+  border: 5px solid black;
+}
+
+li {
+  text-align: center;
+  list-style-type: none;
+  padding: 20px;
+  font-size: 25px;
+  font-family: sans-serif;
+}
+
+h1 {
+  font-size: 45px;
+  text-align: center;
+}
+
+header {
+  background: black;
+}
+
+footer {
+  text-align: center;
+  font-size: 19px;
+}
